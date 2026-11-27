@@ -1,8 +1,18 @@
-# POCKET SOUND QA — Audio Asset Inspector
-
-**게임 오디오 에셋의 품질을 검사하고 관리하기 위한 Python 기반 WAV 검증 도구입니다.**
-
 렌더링된 WAV 파일을 폴더 단위로 검사하고, 오디오 포맷 및 메타데이터를 검증하여 결과를 CSV 리포트로 출력합니다.
+
+## Screenshots
+
+### 1. Main Interface
+![Main Interface](docs/image/main_interface.png)
+
+### 2. Inspection Results
+![Inspection Results](docs/image/inspection_results.png)
+
+### 3. Selected File Details
+![Selected File Details](docs/image/file_details.png)
+
+### 4. CSV Export
+![CSV Export](docs/image/csv_export.png)
 
 ---
 

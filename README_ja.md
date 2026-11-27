@@ -4,6 +4,20 @@
 
 レンダリングされたWAVファイルをフォルダ単位で検査し、オーディオフォーマットやメタデータを検証します。検査結果はGUIで確認でき、CSVレポートとして出力できます。
 
+## スクリーンショット
+
+### 1. メインインターフェース
+![Main Interface](docs/image/main_interface.png)
+
+### 2. 検査結果
+![Inspection Results](docs/image/inspection_results.png)
+
+### 3. 選択ファイルの詳細
+![Selected File Details](docs/image/file_details.png)
+
+### 4. CSVエクスポート
+![CSV Export](docs/image/csv_export.png)
+
 ---
 
 ## 主な機能
