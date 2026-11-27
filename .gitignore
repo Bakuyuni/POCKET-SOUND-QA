@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE settings
+.vscode/
+
+# Generated reports
+*.csv
+
+# Local test audio
+test_audio/
+test_output/
+
+# Local test file
+main.py
